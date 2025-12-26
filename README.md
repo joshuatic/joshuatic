@@ -33,15 +33,15 @@ im into **Minecraft modding**, **Java/Kotlin**, **systems**, and making things g
 ---
 
 ## 🛠️ what i work with
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=oracle&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
-![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=flat&logo=minecraft&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=oracle&logoColor=white)](java.com)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)](kotlinlang.org)
+[![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)](gradle.com)
+[![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=flat&logo=minecraft&logoColor=white)](minecraft.net)
 
 ---
 
 ## 📊 github stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joshuatic&theme=default)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joshuatic&theme=default)](github.com/joshuatic)
 
 ---
 
