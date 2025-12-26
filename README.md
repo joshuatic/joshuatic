@@ -41,8 +41,7 @@ im into **Minecraft modding**, **Java/Kotlin**, **systems**, and making things g
 ---
 
 ## 📊 github stats
-![Stats](https://github-readme-stats.vercel.app/api?username=joshuatic&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuatic&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joshuatic&theme=default)
 
 ---
 
