@@ -33,8 +33,7 @@ im into **Minecraft modding**, **Java/Kotlin**, **systems**, and making things g
 ---
 
 ## 🛠️ what i work with
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joshuatic&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joshuatic&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME)
 
 ---
 
